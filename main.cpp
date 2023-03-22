@@ -24,7 +24,7 @@ int main(int, char**) {
         std::cout << value.a << std::endl;
     }
     std::cout << value[1].a << std::endl;
-     std::cout << "Hello Matt, world!\n";
+    std::cout << "Hello Matt, world!\n";
     
     auto a = A();
     a.a = 200;
